@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "discord": {
+    "clientId": "",
+    "smallImageText": "회별빛릴마오월드",
+    "smallImageKey": "default"
+  },
+  "rss": "",
+  "servers": [
+    {
+      "id": "hoebyeolbit_main",
+      "name": "회별빛릴마오월드",
+      "description": "힐링 컨셉 마인크래프트 서버",
+      "icon": "https://raw.githubusercontent.com/sqqss/MRSww/main/server-icon.png",
+      "version": "0.1.0",
+      "address": "서버주소.com:25565",
+      "minecraftVersion": "1.21.10",
+      "discord": {
+        "shortId": "Hoebyeolbit",
+        "largeImageText": "회별빛릴마오월드",
+        "largeImageKey": "default"
+      },
+      "mainServer": true,
+      "autoconnect": false,
+      "modules": []
+    }
+  ]
+}
